@@ -4,9 +4,9 @@
 This project implements and compares two Convolutional Neural Network (CNN) architectures for classifying traffic signs using the GTSRB (German Traffic Sign Recognition Benchmark) dataset. The project was developed as part of the **SEN 4107 Introduction to Neural Networks** course.
 
 **Team Members:**
-* [Emir Filik]
-* [Atıf Erdem Yeter]
-* [Elif Yildirim]
+* Emir Filik
+* Atıf Erdem Yeter
+* Elif Yildirim
 
 ## Models
 We implemented two models to observe the effects of network depth and regularization:
